@@ -1,0 +1,62 @@
+#Data Science Tools and Ecosystem
+# Final Project in Data Science
+
+## Introduction
+  This notebook shows basic examples of data science, including:
+  - Use of programming languages
+  - Libraries
+  - Tools
+  - Arithmetic operations
+  - Code examples in Python
+
+## Data Science Languages
+  - Python
+  - R
+  - SQL
+  - Julia
+  - Scala
+
+## Data Science Libraries
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - TensorFlow
+
+## Data Science Tools
+
+  | Tool             | Main Use                              
+  |-----------------|----------------------------------------
+  | Jupyter Notebook | Create interactive notebooks           
+  | GitHub           | Version control and collaboration     
+  | RStudio          | R programming environment   
+  | Tableau          | Data visualization 
+  | Power BI         | Analysis and dashboards
+
+## Examples of Arithmetic Expressions
+  - Addition: 7 + 1
+  - Subtraction: 9 - 2
+  - Multiplication: 3 * 5
+  - Division: 66 / 11
+
+# Multiply and add numbers
+  result = 3 * 6 + 10
+  result  # Output: 28
+
+# Convert minutes to hours
+  minutes = 120
+  hours = minutes / 60
+  hours  # Output: 2.0
+  python
+
+# Project objectives
+  objectives = [
+    "Learn to use Markdown and code cells",
+    "Practice basic Python operations",
+    "Explore data science libraries and tools"
+]
+objectives
+
+## Author
+Carlos Chuquimajo Barzola - U20191A430
